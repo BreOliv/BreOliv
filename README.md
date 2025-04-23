@@ -1,6 +1,6 @@
 # ⚡ Olá! Eu sou a Brenda de Oliveira
 
-<img   height=150px width=150px align="right" src="https://assets.pinterest.com/ext/embed.html?id=21955116929199459" height="445" width="345" frameborder="0" scrolling="no" />
+<img   height=150px width=150px align="right" src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif"/>
 
 - 🎓 Explorando o universo da computação com foco em desenvolvimento, inovação e aprendizado contínuo! 
 - 📖 Atualmente no **3° ano do Ensino Médio**
