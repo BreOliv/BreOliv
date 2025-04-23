@@ -1,4 +1,8 @@
-# ⚡ Olá! Eu sou a Brenda de Oliveira
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Olá!+Meu+nome+é+Brenda!" alt="Typing SVG" />
+</p>
+
+ <div>
 
 <img   height=150px width=150px align="right" src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif"/>
 
@@ -10,6 +14,49 @@
 - 👩🏻‍💻 Interessada em **Engenharia da Computação**, integrando hardware e software para desenvolver soluções tecnológicas inovadoras. 
 - 📫 Contato: **bbrenda.senai@gmail.com**
 
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+.
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -20,7 +67,7 @@
 </div>
 
 
-## 🐍 Contribuições
+## Contribuições
 
 <div align="center">
   <picture>
