@@ -4,7 +4,7 @@
 
  <div>
 
-<img   height=150px width=150px align="right" src="https://i.pinimg.com/originals/d6/e1/27/d6e12796914cde798323225515bd7868.gif"/>
+
 
 - 🎓 Explorando o universo da computação com foco em desenvolvimento, inovação e aprendizado contínuo! 
 - 📖 Atualmente no **3° ano do Ensino Médio**
