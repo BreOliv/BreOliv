@@ -8,7 +8,7 @@
 
 - 🎓 Explorando o universo da computação com foco em desenvolvimento, inovação e aprendizado contínuo! 
 - 📖 Atualmente no **3° ano do Ensino Médio**
-- 💻 Cursando **3° semestre de Técnico em Desenvolvimento de Sistemas**
+- 💻 Cursando **4° semestre de Técnico em Desenvolvimento de Sistemas**
 - ☕ Aprendendo **Phyton** e **React Native**
 - 📚 Conhecimento: **Power BI**, certificado pelo SENAI
 - 👩🏻‍💻 Interessada em **Engenharia da Computação**, integrando hardware e software para desenvolver soluções tecnológicas inovadoras. 
